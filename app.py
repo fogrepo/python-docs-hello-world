@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, Azure User!"
+    return "Hello, Azure User 9.47!"
